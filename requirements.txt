@@ -1,0 +1,10 @@
+gradio_client
+asyncio
+websockets
+json
+playsound==1.3.0
+logging
+sys
+winsound
+pyperclip
+os
